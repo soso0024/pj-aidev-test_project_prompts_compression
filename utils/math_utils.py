@@ -2,6 +2,7 @@
 Mathematical utility functions. module provides basic mathematical operations additional safety features
 """
 
+
 def add(a, b):
     """
     Add two numbers together Args : a : First number b : Second number Returns : sum of a and

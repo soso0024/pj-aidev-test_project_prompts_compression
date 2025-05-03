@@ -2,6 +2,7 @@
 User model module. This module defines User class represents user accounts in system. Each user has an ID, name, and balance for financial transactions
 """
 
+
 class User:
     """
     User model representing a customer account. A user has unique ID, name, and balance can be debited or credited for financial transactions
